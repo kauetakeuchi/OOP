@@ -1,0 +1,14 @@
+C:\Users\Kaue\Documents\OOP\AMST4_Heranca\obj\Debug\net8.0\AMST4_Heranca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kaue\Documents\OOP\AMST4_Heranca\obj\Debug\net8.0\AMST4_Heranca.AssemblyInfoInputs.cache
+C:\Users\Kaue\Documents\OOP\AMST4_Heranca\obj\Debug\net8.0\AMST4_Heranca.AssemblyInfo.cs
+C:\Users\Kaue\Documents\OOP\AMST4_Heranca\obj\Debug\net8.0\AMST4_Heranca.csproj.CoreCompileInputs.cache
+C:\Users\Kaue\Documents\OOP\AMST4_Heranca\bin\Debug\net8.0\AMST4_Heranca.exe
+C:\Users\Kaue\Documents\OOP\AMST4_Heranca\bin\Debug\net8.0\AMST4_Heranca.deps.json
+C:\Users\Kaue\Documents\OOP\AMST4_Heranca\bin\Debug\net8.0\AMST4_Heranca.runtimeconfig.json
+C:\Users\Kaue\Documents\OOP\AMST4_Heranca\bin\Debug\net8.0\AMST4_Heranca.dll
+C:\Users\Kaue\Documents\OOP\AMST4_Heranca\bin\Debug\net8.0\AMST4_Heranca.pdb
+C:\Users\Kaue\Documents\OOP\AMST4_Heranca\obj\Debug\net8.0\AMST4_Heranca.dll
+C:\Users\Kaue\Documents\OOP\AMST4_Heranca\obj\Debug\net8.0\refint\AMST4_Heranca.dll
+C:\Users\Kaue\Documents\OOP\AMST4_Heranca\obj\Debug\net8.0\AMST4_Heranca.pdb
+C:\Users\Kaue\Documents\OOP\AMST4_Heranca\obj\Debug\net8.0\AMST4_Heranca.genruntimeconfig.cache
+C:\Users\Kaue\Documents\OOP\AMST4_Heranca\obj\Debug\net8.0\ref\AMST4_Heranca.dll
